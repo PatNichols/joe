@@ -5,6 +5,7 @@
  *
  *	This file is part of JOE (Joe's Own Editor)
  */
+#include <util.h>
 
 struct mpx {
 	int	ackfd;		/* Packetizer response descriptor */
